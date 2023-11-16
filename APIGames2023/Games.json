@@ -1,0 +1,93 @@
+[
+    {
+        "nome": "Resident Evil 4 Remake",
+        "dt_lancamento": "23-03-2023",
+        "desenvolvedor": "Capcom",
+        "duracao": 10,
+        "nota": 93
+    },
+    {
+        "nome": "Dead Space Remake",
+        "dt_lancamento": "27-01-2023",
+        "desenvolvedor": "EA",
+        "duracao": 6,
+        "nota": 89
+    },
+    {
+        "nome": "HI-FI Rush",
+        "dt_lancamento": "25-01-2023",
+        "desenvolvedor": "Tango Gameworks",
+        "duracao": 13,
+        "nota": 87
+    },
+    {
+        "nome": "Hogwarts Legacy",
+        "dt_lancamento": "10-02-2023",
+        "desenvolvedor": "Avalanche Software",
+        "duracao": 25,
+        "nota": 84
+    },
+    {
+        "nome": "Dead Island 2",
+        "dt_lancamento": "21-04-2023",
+        "desenvolvedor": "Deep Silver",
+        "duracao": 19,
+        "nota": 73
+    },
+    {
+        "nome": "Star Wars Jedi: Survivor",
+        "dt_lancamento": "28-04-2023",
+        "desenvolvedor": "EA",
+        "duracao": 14,
+        "nota": 85
+    },
+    {
+        "nome": "Redfall",
+        "dt_lancamento": "01-03-2023",
+        "desenvolvedor": "Bethesda",
+        "duracao": 14,
+        "nota": 56
+    },
+    {
+        "nome": "Zelda: Tears of the Kingdom",
+        "dt_lancamento": "12-05-2023",
+        "desenvolvedor": "Nintendo",
+        "duracao": 28,
+        "nota": 96
+    },
+    {
+        "nome": "Diablo IV",
+        "dt_lancamento": "05-06-2023",
+        "desenvolvedor": "Blizzard",
+        "duracao": 30,
+        "nota": 86
+    },
+    {
+        "nome": "Baldur's Gate",
+        "dt_lancamento": "03-08-2023",
+        "desenvolvedor": "Larian Studios",
+        "duracao": 43,
+        "nota": 96
+    },
+    {
+        "nome": "Starfield",
+        "dt_lancamento": "06-09-2023",
+        "desenvolvedor": "Bethesda",
+        "duracao": 32,
+        "nota": 83
+    },
+    {
+        "nome": "Alan Wake 2",
+        "dt_lancamento": "27-10-2023",
+        "desenvolvedor": "Remedy",
+        "duracao": 12,
+        "nota": 87
+    },
+    {
+        "nome": "Marvel's Spider Man 2",
+        "dt_lancamento": "20-10-2023",
+        "desenvolvedor": "Insomniac Games",
+        "duracao": 16,
+        "nota": 90
+    }
+]
