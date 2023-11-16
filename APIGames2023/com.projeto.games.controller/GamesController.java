@@ -24,25 +24,28 @@ public class ClienteController {
 	@Autowired
 	private GamesRepository gamesRepository;
 	
-	
+	//Método GET para listar os itens inseridos na base de dados
 	@GetMapping
 	public List<Games> listar() {
 		return gamesRepository.findAll();
 	}
-	
+
+	//Método POST para atualizar o itens da base de dados
 	@PostMapping
 	@ResponseStatus(HttpStatus.CREATED)
 	public Games adicionar (@RequestBody Games games) {
 		
 		return gamesRepository.save(games);
 	}
-	
+
+	//Método DELETE para deletar itens da base de dados
 	@DeleteMapping
 	public void deletar (@RequestBody Games games) {
 		gamesRepository.delete(games);
 	
 	}
-	
+
+	//Método PUT para inserir itens na base de dados
 	@PutMapping
 	public Games atualizar (@RequestBody Games games) {
 		return gamesRepository.save(games);
