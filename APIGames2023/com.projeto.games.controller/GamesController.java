@@ -27,8 +27,7 @@ public class ClienteController {
 	
 	@GetMapping
 	public List<Games> listar() {
-		throw new NullPointerException();
-		//return gamesRepository.findAll();
+		return gamesRepository.findAll();
 	}
 	
 	@PostMapping
