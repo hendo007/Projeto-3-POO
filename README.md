@@ -8,12 +8,12 @@
 ## Tecnologia Empregada
 
 ### Linguagem de Programação
-- A linguagem de programação utilizada foi o Java. O motivo de escolha se deu pois é uma linguagem orientada a objeto, o qual era um dos requisitos, e também pois é uma linguagem de simples desenvolvimento de APIs
+- A linguagem de programação utilizada foi o Java. O motivo de escolha se deu pois é uma linguagem orientada a objeto, o qual era um dos requisitos, e também pois é uma linguagem de simples desenvolvimento de APIs.
 
 ### Frameworks e Bibliotecas
 - Springboot 
-  - O Springboot foi utilizado para programar e hospedar localmente o servidor que receberiam as requisições do usuário. Assim como também foi utulizado as bibliotecas 
-- Postman: Utilizado para realizar os métodos GET,SET,DELETE e PUT
+  - O Springboot foi utilizado para programar e hospedar localmente o servidor que receberiam as requisições do usuário. As dependências utilizadas no projeto podem ser observadas no arquivo pom.xml presente na pasta do projeto.
+- Postman: Utilizado para realizar as requisições ao servidor local através dos métodos: GET,SET,DELETE e PUT.
 
 ### Armazenamento de Dados
 - Armazenamento local, utilizado apenas para testes.
@@ -22,7 +22,6 @@
 
 ### Arquitetura Geral
 A aplicação segue uma arquitetura baseada em microsserviços para garantir escalabilidade e modularidade.
-
 
 ### Fluxo de Dados
 Os dados fluem desde a requisição até a base onde estão salvos os registros, os quais retornam o que foi pesquisado pelo usuário.
