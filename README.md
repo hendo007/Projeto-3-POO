@@ -3,18 +3,16 @@
 ## Descrição do Projeto
 
 ### Objetivo
-Desenvolver uma API REST para buscar jogos lançados no ano de 2023.
-
-### Contexto
-Este projeto visa fornecer uma solução eficiente para obter informações sobre jogos lançados em 2023.
+- Este projeto tem como objetivo criar uma API que busca os jogos mais famosos lançados em 2023, tranzendo uma lista contendo várias informações sobre cada jogo.
 
 ## Tecnologia Empregada
 
 ### Linguagem de Programação
-- Java
+- A linguagem de programação utilizada foi o Java. O motivo de escolha se deu pois é uma linguagem orientada a objeto, o qual era um dos requisitos, e também pois é uma linguagem de simples desenvolvimento de APIs
 
 ### Frameworks e Bibliotecas
-- Springboot e bibliotecas para desenvolvimento de APIs disponibilizadas dentro do próprio springboot
+- Springboot 
+  - O Springboot foi utilizado para programar e hospedar localmente o servidor que receberiam as requisições do usuário. Assim como também foi utulizado as bibliotecas 
 - Postman: Utilizado para realizar os métodos GET,SET,DELETE e PUT
 
 ### Armazenamento de Dados
