@@ -18,6 +18,16 @@
 ### Armazenamento de Dados
 - Armazenamento local, utilizado apenas para testes.
 
+## Base de dados
+- A base utilizada no projeto está disponível no arquivo `Games.Json`.
+  - Nessa base, é possível visualizar o objeto `Games` e seus atributos, são eles:
+    - # ID: Identificação única autogerada pelo código - int;
+    - # Nome: Nome do jogo - string;
+    - # Data de lançamento: Data de lançamento do jogo - string (como será usuada apenas para exibição, foi escolhido o tipo string para esse atributo);
+    - # Desenvolverdor: Empresa que desenvolveu o jogo - string;
+    - # Duração: Duração média para finalização do jogo - int;
+    - # Nota: Nota do Metacritic - int;
+
 ## Descrição da Arquitetura
 
 ### Arquitetura Geral
@@ -35,9 +45,7 @@ Os dados fluem desde a requisição até a base onde estão salvos os registros,
 - `PUT /games`: Alterna um registro já existente na base, passando seu id.
 - `SET /games`: Insere um novo registro na base de dados.
 - `DELETE /games`: Deleta um registro da base de dados.
-
-## Documentação
-
+  
 ## Inovação e Criatividade
 
 ###Recursos Inovadores
