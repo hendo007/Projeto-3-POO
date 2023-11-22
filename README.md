@@ -21,12 +21,12 @@
 ## Base de dados
 - A base utilizada no projeto está disponível no arquivo `Games.Json`.
   - Nessa base, é possível visualizar o objeto `Games` e seus atributos, são eles:
-    - # ID: Identificação única autogerada pelo código - int;
-    - # Nome: Nome do jogo - string;
-    - # Data de lançamento: Data de lançamento do jogo - string (como será usuada apenas para exibição, foi escolhido o tipo string para esse atributo);
-    - # Desenvolverdor: Empresa que desenvolveu o jogo - string;
-    - # Duração: Duração média para finalização do jogo - int;
-    - # Nota: Nota do Metacritic - int;
+    - #### ID: Identificação única autogerada pelo código - int;
+    - #### Nome: Nome do jogo - string;
+    - #### Data de lançamento: Data de lançamento do jogo - string (como será usuada apenas para exibição, foi escolhido o tipo string para esse atributo);
+    - #### Desenvolverdor: Empresa que desenvolveu o jogo - string;
+    - #### Duração: Duração média para finalização do jogo - int;
+    - #### Nota: Nota do Metacritic - int;
 
 ## Descrição da Arquitetura
 
