@@ -26,6 +26,8 @@ A aplicação segue uma arquitetura baseada em microsserviços para garantir esc
 ### Fluxo de Dados
 Os dados fluem desde a requisição até a base onde estão salvos os registros, os quais retornam o que foi pesquisado pelo usuário.
 
+<img width="799" alt="Desenho3" src="https://github.com/hendo007/Projeto-3-POO/assets/82677913/d191a138-9688-4ae9-97fc-d39e56808a70">
+
 ## Funcionalidade
 
 ### Busca de Jogos
