@@ -1,3 +1,6 @@
+## Nome: Thalis Otávio Camargo Grandin
+## RA: 202109858
+
 # API de Busca de Jogos (2023)
 
 ## Descrição do Projeto
